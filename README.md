@@ -41,7 +41,7 @@ Berikut cara melakukan pemilihan ulang homebase:
    * Klik menu "Profile" di bagian bawah kanan.
    * Masukkan kredensial (Fingerprint/Face/Pin) untuk masuk ke menu tersebut.
 
-**Pilih Homebase Baru**
+**Pemilihan Ulang Homebase**
    * Klik "Request change your homebase".
    * Pilih kota yang akan dijadikan homebase sesuai dengan alamat anggota keluarga inti (Karyawan, Oranguta, Mertua).
    * Lengkapi berkas yang diminta (Kartu Keluarga).
