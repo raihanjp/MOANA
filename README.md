@@ -11,8 +11,8 @@ Berikut cara untuk menambah anggota keluarga:
 **Tambah Anggota Keluarga**
    * Klik menu "Personal & Family Information", lalu klik "+ Add Family Member".
    * Isi data sesuai dengan anggota keluarga.
-   * Jelasin dokumen yang dibutuhkan?
-   * Jika sudah selesai mengisi data keluarga, request akan masuk ke keranjang terlebih dahulu, pilij: 
+   * Pada kolom "Evidence Document" lampirkan berkas yang menyatakan hubungan keluarga. Contoh: Kartu Keluarga/Buku Nikah/Kartu Keluarga Sebelum Menikah/dll
+   * Jika sudah selesai mengisi data keluarga, request akan masuk ke keranjang terlebih dahulu, pilih: 
      * Tombol "See Request Cart" lalu klik tombol "Submit All" jika ingin mengirimkan semua request data atau 
      * Tombol "Back" jika ingin menambah data anggota keluarga lainnya. Tombol keranjang juga dapat dilihat di bagian bawah kanan pada menu "Personal & Family Info".
    * Penambahan data yang disubmit oleh karyawan akan disetujui oleh PBP terlebih dahulu. Request dari karyawan HO akan disetujui oleh PBP per direktorat, sementara karyawan area akan disetujui oleh PBP per regional.
