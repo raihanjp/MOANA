@@ -47,7 +47,7 @@ Berikut cara melakukan pemilihan ulang homebase:
    * Lengkapi berkas yang diminta (Kartu Keluarga).
    * Klik tombol "Request" untuk verifikasi sistem.
    * Proses akan memakan waktu kurang lebih 1 menit. Mohon untuk tidak menutup atau berpindah aplikasi
-   * Status permintaan perubahan homebase dapat dilihat di menu "Worklist" bagian "Submission".
+   * Status permintaan pemilihan ulang homebase dapat dilihat di menu "Worklist" bagian "Submission".
 
 ## Keyword
 * Homebase
